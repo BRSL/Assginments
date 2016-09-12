@@ -109,13 +109,6 @@ print(total)
 #### Answer:
 
 
-```r
-mini <- head(d[1])
-maxi <- tail(rev(d[8]))
-total <- maxi-mini
-print(total)
-```
-
 ```
 ## [1] 2136
 ```
